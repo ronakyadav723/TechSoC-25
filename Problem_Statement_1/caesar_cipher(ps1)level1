@@ -67,7 +67,7 @@ int main()
     cout<<"THE ACTUAL TEXT:::"<<endl<<code<<endl;
     cout<<"THE ENCODED TEXT:::"<<endl<<encoded<<endl;
     cout<<"THE DECODED TEXT:::"<<endl<<decoded<<endl;
-        return 0; 
+        return 0;
 }
     
 
